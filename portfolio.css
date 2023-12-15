@@ -1,0 +1,76 @@
+
+body {
+  font-family: 'Italiana';
+  background-color: #F1F0E8;
+  color: #262031;
+  font-size: larger;
+}
+.navbar {
+  background-color: #96B6C5;
+  box-shadow: 0 2px 4px black;
+  box-decoration-break: slice;
+}
+
+.navbar-brand img {
+  margin-right: 10px;
+  border-radius: 50%;
+  font-size: 3.5rem;
+  font-weight: bold;
+}
+
+.nav-link {
+  font-size: 1.2rem;
+}
+
+
+.navbar-brand {
+  font-weight: bold;
+  font-style: oblique;
+  color: #262031;
+}
+.navbar-nav .nav-link {
+  color: #333;
+}
+.navbar-nav .nav-link:hover {
+  color: #e4eef2;
+}
+
+section {
+  padding: 50px 0;
+}
+
+h2 {
+  font-family: 'Italiana';
+  margin-bottom: 30px;
+  color: #262031;
+  text-decoration-line: underline;
+  text-decoration: dotted;
+  font-weight: bold;
+}
+
+.card {
+  border:#414141;
+  border-radius: 8px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  background-color: #96B6C5;
+}
+
+.card-title {
+  font-weight: bold;
+  color: #333;
+  text-emphasis: 1;
+}
+
+.carousel-caption {
+  background-color: rgba(236, 235, 233, 0.7);
+  color: #221d1d;
+  border-radius: 5px;
+  padding: 10px;
+  font-weight: bold;
+}
+
+.carousel-caption h5 {
+  margin-bottom: 0;
+  text-decoration: wavy;
+  font-weight: bold;
+}
